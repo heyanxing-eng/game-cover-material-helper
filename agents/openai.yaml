@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏封面素材助手"
+  short_description: "只看封面图，判断它能不能打"
+  default_prompt: "Use $game-cover-material-helper to diagnose whether this image works as a game cover material. Only talk about the picture itself, and never suggest adding extra promotional text onto the art."
