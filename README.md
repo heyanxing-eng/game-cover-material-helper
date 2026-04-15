@@ -15,6 +15,32 @@
 - `帮我看下这张素材的问题`
 - `只看图给我优化方向`
 
+## 安装方式
+
+### 方式一：从 GitHub 安装
+
+仓库地址：
+
+- [heyanxing-eng/game-cover-material-helper](https://github.com/heyanxing-eng/game-cover-material-helper)
+
+如果你的 Codex 环境已经带了 GitHub skill installer，可以直接用：
+
+```bash
+python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
+  --repo heyanxing-eng/game-cover-material-helper \
+  --path .
+```
+
+### 方式二：手动安装
+
+1. 克隆或下载这个仓库
+2. 把整个目录复制到你本机的 Codex skills 目录
+3. 保持目录内的 `SKILL.md`、`agents/`、`references/` 结构不变
+
+常见目标目录示例：
+
+- `~/.codex/skills/game-cover-material-helper`
+
 ## 目录结构
 
 - [SKILL.md](./SKILL.md)
@@ -23,6 +49,15 @@
 
 ## 使用说明
 
-把这个目录作为一个独立 skill 安装即可。
+安装完成后，就可以直接用类似这些方式触发它：
 
-如果你在自己的 Codex 环境里手动接入，主要入口是 `SKILL.md`，`agents/openai.yaml` 提供显示名和默认 prompt，`references/data-derived-notes.md` 是内置经验备注。
+- `帮我看这张封面素材`
+- `这图能不能打`
+- `这个封面为什么点不起来`
+- `只看图给我优化方向`
+
+如果你在自己的 Codex 环境里手动接入：
+
+- `SKILL.md` 是主入口
+- `agents/openai.yaml` 提供显示名和默认 prompt
+- `references/data-derived-notes.md` 是内置经验备注
