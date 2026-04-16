@@ -749,6 +749,12 @@ Rating semantics:
 - `偏弱，不建议优先用`: not completely wrong, but the image lacks enough pull, clarity, or distinctiveness to be a preferred option
 - `风险高，不建议用`: the image has a strong chance of underperforming because of clarity, clutter, mismatch, or weak appeal
 
+Middle-band nuance:
+- when the verdict is `中规中矩，有优化空间`, you may optionally append one short orientation sentence after the top-line verdict
+- use `整体离能打不远` when the image is broadly stable and closer to upgrade than to decline
+- use `整体离偏弱更近` when the image is still usable but the main risks are already pulling it downward
+- do not turn these into new top-level verdict labels; they are explanation-layer refinements only
+
 Do not use non-linear verdict labels such as:
 - `方向对但偏弱`
 - `中性偏弱`
