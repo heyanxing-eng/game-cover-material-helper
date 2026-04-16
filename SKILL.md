@@ -729,6 +729,11 @@ Use this order:
 
 补充风险
 - 只在有必要时补一句：这张图更怕小图浏览 / 更怕更新信息看不出来 / 更怕老游戏无新增量
+
+尾注
+- 默认补一行很轻的结果边界说明
+- 推荐写法：`注：素材判断主要反映图片本身的吸引力和表达效率，实际点击表现还会受到产品认知、资源位、投放时机和同期竞争等因素影响。`
+- 只有在边界 case、多图对比、或用户明显把素材判断直接等同于结果预测时，再稍微展开
 ```
 
 Tone calibration:
@@ -760,6 +765,10 @@ Do not include:
 Publisher-facing output should read like a direct material review, not like an analyst work log.
 Do not expose the internal 5-dimension frame or pseudo-scores unless the user explicitly asks for a scoring breakdown.
 If the user asks for multi-image comparison, lead with the ranking or relative winner before drilling into each image.
+Keep the disclaimer light:
+- it should correct over-certainty, not dilute the judgment
+- do not over-explain external factors on obviously strong or weak cases
+- on straightforward cases, one short note is enough
 
 ## Runtime Boundary
 
