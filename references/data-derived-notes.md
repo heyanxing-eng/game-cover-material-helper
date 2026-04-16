@@ -133,6 +133,14 @@ Do not use non-linear verdict labels like:
 
 Those can appear in explanation language, but not as the headline verdict.
 
+## Result Disclaimer
+
+- A material judgment is not a deterministic prediction of actual clicks.
+- The judgment should mainly reflect the image's own pull and expression efficiency.
+- Real performance can still shift because of product recognition, slot exposure, timing, competition pressure, and event strength.
+- Runtime should usually carry this as one light tail note rather than a long disclaimer block.
+- Expand the disclaimer only for borderline calls, side-by-side comparisons, or when the user is collapsing image judgment into guaranteed outcome.
+
 ## Slot Reality
 
 - Publishers do not control card assignment.
