@@ -122,7 +122,7 @@ Special reminder for soft categories:
 Top-line verdicts should stay linear:
 - `很能打`
 - `能打`
-- `可用，建议优化`
+- `中规中矩，有优化空间`
 - `偏弱，不建议优先用`
 - `风险高，不建议用`
 

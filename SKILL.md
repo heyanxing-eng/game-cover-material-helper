@@ -717,7 +717,7 @@ Use this order:
 
 ```markdown
 判断
-- 先给一句线性结论：很能打 / 能打 / 可用，建议优化 / 偏弱，不建议优先用 / 风险高，不建议用
+- 先给一句线性结论：很能打 / 能打 / 中规中矩，有优化空间 / 偏弱，不建议优先用 / 风险高，不建议用
 
 主因
 - 只说最关键的 1-2 个视觉问题
@@ -740,7 +740,7 @@ Tone calibration:
 Rating semantics:
 - `很能打`: first-glance pull is strong, mobile readability is strong, and there is no obvious structural weakness
 - `能打`: overall strong with clear positives. If the user wants to push it toward `很能打`, there is still room to optimize
-- `可用，建议优化`: the direction is not wrong and the image can work, but it is still some distance away from `能打`
+- `中规中矩，有优化空间`: the image is not fundamentally wrong, but it is not especially strong either; it still needs a clearer edge before it can reach `能打`
 - `偏弱，不建议优先用`: not completely wrong, but the image lacks enough pull, clarity, or distinctiveness to be a preferred option
 - `风险高，不建议用`: the image has a strong chance of underperforming because of clarity, clutter, mismatch, or weak appeal
 
