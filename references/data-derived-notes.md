@@ -80,6 +80,27 @@ Weighting rule:
 Cap rule:
 - even `强认知` cannot fully erase bad mobile readability, severe clutter, or major product-expression mismatch
 
+## Logo Weight Reminder
+
+- large title text is not automatically a severe negative
+- only penalize heavily when the text truly displaces or replaces the visual content
+- if the subject and main concept are still clear, treat it as a balance issue rather than a hard failure
+
+## Concept Contrast / Attitude
+
+Repeated strong hooks can also come from:
+- obvious concept contrast
+- aggressive or memorable pose language
+- a character attitude that instantly communicates `别小看我 / 我很能打 / 我很危险`
+
+This is especially useful when:
+- the subject is large and clear
+- the concept punch lands faster than a full system explanation would
+
+Constraint:
+- it is a real positive
+- but it weakens when the image becomes too text-led, cluttered, or visually fragmented
+
 ## Multi-Image Comparison Notes
 
 When comparing multiple candidate covers:

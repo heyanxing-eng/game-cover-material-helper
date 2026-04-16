@@ -29,6 +29,8 @@ Important distinction:
 - the game title itself still counts as `logo`, even when it is large and highly prominent
 - do not misclassify an oversized game-name logo as forbidden promo copy
 - judge oversized title text under `logo placement / prominence balance`, not under `违规加文案`
+- do not over-penalize large title text if the subject, concept, and main click hook are still clearly readable beneath it
+- only treat oversized text as a major negative when it genuinely displaces, blocks, or replaces the visual content itself
 
 Never suggest:
 - adding benefit copy such as `领好礼`
@@ -194,6 +196,10 @@ More weight on:
 Common miss:
 - the art looks cool, but the image is only a pose poster rather than a live conflict
 
+Special positive:
+- if the image has strong attitude, aggression, or confrontation energy, count that as a real click-strength signal
+- the user does not always need a full system read if the image already delivers a strong `能打 / 很猛 / 很有压迫感` feeling
+
 ### 6. `武侠 / 仙侠 / 国风冒险`
 
 More weight on:
@@ -338,6 +344,25 @@ Recognition discipline:
 - do not invent recognition from art quality alone
 - use visible title/IP signal plus public context when available
 - if recognition is unclear, default conservatively rather than assuming `强认知`
+
+## Concept Contrast / Attitude Modifier
+
+Do not miss high-concept contrast when it is already doing real work for the image.
+
+Typical forms:
+- cute character + heavy firepower
+- princess / soft-looking role + brutal weapon system
+- small body + huge threat
+- elegant face + highly aggressive stance
+
+Practical rule:
+- if the contrast is instantly readable and the pose/expression supports it, this can itself become a click hook
+- count `反差感`, `角色态度`, and `姿态张力` as real positives when they are what the image is clearly selling
+- do not force every such image to over-explain systems if the concept punch is already strong
+
+Constraint:
+- concept contrast is strongest when the subject is large, clear, and mobile-readable
+- it weakens fast if the image becomes too text-led, too cluttered, or too fragmented
 
 ## Multi-Image Comparison Rule
 
@@ -523,6 +548,7 @@ Better-performing visual directions repeatedly shared these traits:
 - subject reads fast
 - atmosphere supports the hook instead of replacing it
 - the playable fantasy is visible without explanation
+- in some cases, a strong concept punch or strong character attitude can also function as the hook even before full system understanding lands
 
 ### 8. `素材表达` 和 `游戏实际题材 / 玩法` 错配，会天然拉低效果
 
