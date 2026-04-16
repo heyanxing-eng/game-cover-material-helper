@@ -52,6 +52,20 @@ Classification discipline:
 - do not classify only by art style or wrapper theme
 - prefer what the user expects to *do* in the game over what world the image appears to inhabit
 - `二次元` and `国风` are not enough by themselves; split by actual experience type
+- in hybrid products, prioritize what the current asset is trying to sell now
+
+## Recognition Modifier
+
+Recognition can be part of the click reason.
+
+Especially relevant for:
+- strong IPs
+- famous character casts
+- long-running titles with established affection for specific faces or heroes
+
+Constraint:
+- recognition is a real positive
+- but it cannot erase severe clutter, weak mobile readability, or lack of focal point
 
 ## Multi-Image Comparison Notes
 

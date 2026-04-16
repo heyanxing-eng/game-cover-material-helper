@@ -134,6 +134,11 @@ Internal rule:
 - optionally note one secondary archetype
 - then shift the weighting of the five dimensions instead of inventing a brand-new rubric
 
+Hybrid reminder:
+- if the game spans multiple archetypes, prioritize what the current asset is trying to sell now, not just the product's total feature list
+- in mixed cases, ask `玩家看完这张图，会以为自己最主要会去做什么`
+- if the asset is clearly character-forward, event-forward, exploration-forward, or combat-forward, weight that current selling target first
+
 Use these archetypes:
 
 ### 1. `可爱治愈 / 软萌 / 家园 / 装扮`
@@ -271,6 +276,21 @@ Archetype discipline:
 - prefer the user's first expected experience over surface theme
 - for example, `二次元` is not one bucket; `角色养成` and `动作共斗` should be judged differently
 - when in doubt, weight by what the player thinks they will *do*, not just what world they are in
+
+## Recognition Modifier
+
+Do not forget that strong recognition can itself be part of the click reason.
+
+This applies especially to:
+- strong IPs
+- highly recognizable hero casts
+- famous characters with established player affection
+- long-running products where character presence is already a meaningful draw
+
+Practical rule:
+- do not over-penalize a character-forward image just because it does not fully explain systems, if the character itself is a legitimate hook
+- but recognition cannot fully erase bad mobile readability, severe clutter, or total lack of focal point
+- in other words: `认得出来、想看这个角色` can be a real positive, but it is not a free pass
 
 ## Multi-Image Comparison Rule
 
