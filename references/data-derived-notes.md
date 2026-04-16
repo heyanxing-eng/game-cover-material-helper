@@ -22,6 +22,37 @@ Tie-break rule when two images are close:
 - then prefer the one that explains the click reason faster
 - only then let pure aesthetic advantage decide
 
+## Genre / Experience Archetypes
+
+Use the same five-dimension frame, but shift weighting by primary experience archetype.
+
+Recommended archetypes:
+- `可爱治愈 / 软萌 / 家园 / 装扮`
+- `模拟经营 / 建造 / 种田 / 开店 / 生活模拟`
+- `二次元角色向 / 抽卡 / 角色养成`
+- `二次元动作向 / ARPG / 共斗`
+- `动作 / ACT / ARPG / 射击 / 格斗`
+- `武侠 / 仙侠 / 国风冒险`
+- `叙事 / AVG / 剧情 / 悬疑 / 解谜`
+- `恐怖 / 生存 / 末日 / 废土`
+- `策略 / 塔防 / SLG / 国战`
+- `肉鸽 / 构筑 / 卡牌策略`
+- `平台跳跃 / 像素动作 / 独立冒险`
+- `休闲益智 / 派对 / 合成 / 轻竞技`
+
+Archetype reminders:
+- soft / cute / healing-facing materials deserve extra weight on `浏览舒适度`, `主体明确`, and `第一眼讨喜`
+- character-driven anime materials deserve extra weight on `角色魅力`, `脸`, `气质`, and who actually wins first glance
+- action-facing materials deserve extra weight on `动作张力`, `敌我冲突`, and `正在发生什么`
+- narrative-facing materials deserve extra weight on `故事感`, `关系张力`, `悬念`, and `线索钩子`
+- management-facing materials deserve extra weight on `经营对象`, `经营结果`, and `循环感`
+- strategy-facing materials deserve extra weight on `博弈感`, `阵营对抗`, and `机制辨识度`
+
+Classification discipline:
+- do not classify only by art style or wrapper theme
+- prefer what the user expects to *do* in the game over what world the image appears to inhabit
+- `二次元` and `国风` are not enough by themselves; split by actual experience type
+
 ## Multi-Image Comparison Notes
 
 When comparing multiple candidate covers:

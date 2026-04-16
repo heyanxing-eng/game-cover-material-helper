@@ -124,6 +124,154 @@ When two images are close, use this tie-break:
 - then choose the one that explains the click reason faster
 - only then let pure aesthetic advantage decide
 
+## Genre / Experience Archetype Adjustment
+
+Do not treat every game with the exact same weighting.
+Keep the same five-dimension base, then apply a genre / experience correction.
+
+Internal rule:
+- first identify the primary experience archetype
+- optionally note one secondary archetype
+- then shift the weighting of the five dimensions instead of inventing a brand-new rubric
+
+Use these archetypes:
+
+### 1. `可爱治愈 / 软萌 / 家园 / 装扮`
+
+More weight on:
+- `浏览舒适度`
+- `主体明确`
+- `第一眼讨喜`
+
+Common miss:
+- the image becomes more theme-specific but also more fragmented, tiring, or less likable on a phone
+
+### 2. `模拟经营 / 建造 / 种田 / 开店 / 生活模拟`
+
+More weight on:
+- `经营对象`
+- `经营结果`
+- `循环感`
+- `到底在经营什么`
+
+Common miss:
+- the image sells atmosphere or decoration, but not the management loop
+
+### 3. `二次元角色向 / 抽卡 / 角色养成`
+
+More weight on:
+- `角色魅力`
+- `脸和气质`
+- `角色辨识度`
+- `谁最值得看`
+
+Common miss:
+- the image is technically polished, but no character truly wins the first glance
+
+### 4. `二次元动作向 / ARPG / 共斗`
+
+More weight on:
+- `角色魅力`
+- `动作能力感`
+- `能打的感觉`
+
+Common miss:
+- the image only sells a pretty character, not what that character can do in combat
+
+### 5. `动作 / ACT / ARPG / 射击 / 格斗`
+
+More weight on:
+- `动作张力`
+- `敌我冲突`
+- `危险感`
+- `正在发生什么`
+
+Common miss:
+- the art looks cool, but the image is only a pose poster rather than a live conflict
+
+### 6. `武侠 / 仙侠 / 国风冒险`
+
+More weight on:
+- `人物气场`
+- `江湖感`
+- `世界危险感`
+- `不是单纯摆 pose`
+
+Common miss:
+- the image sells only costume beauty or historical flavor, not the actual adventure or conflict
+
+### 7. `叙事 / AVG / 剧情 / 悬疑 / 解谜`
+
+More weight on:
+- `故事感`
+- `关系张力`
+- `悬念`
+- `线索钩子`
+
+Common miss:
+- the image has pretty people or pretty scenery, but not a reason to ask "what happened?"
+
+### 8. `恐怖 / 生存 / 末日 / 废土`
+
+More weight on:
+- `威胁源`
+- `求生处境`
+- `压迫感`
+- `我会遭遇什么`
+
+Common miss:
+- the image sells wasteland mood only, without a concrete survival threat
+
+### 9. `策略 / 塔防 / SLG / 国战`
+
+More weight on:
+- `博弈感`
+- `阵营对抗`
+- `资源压力`
+- `机制辨识度`
+
+Common miss:
+- the image sells only人物 or worldbuilding, while strategy disappears
+
+### 10. `肉鸽 / 构筑 / 卡牌策略`
+
+More weight on:
+- `打法差异`
+- `组合感`
+- `构筑感`
+- `这局为什么有意思`
+
+Common miss:
+- the image only communicates generic fantasy, dungeon, or battle mood without surfacing the system hook
+
+### 11. `平台跳跃 / 像素动作 / 独立冒险`
+
+More weight on:
+- `操作感`
+- `关卡感`
+- `独特风格`
+- `核心乐趣是否一眼可见`
+
+Common miss:
+- the image has style, but the actual playable pleasure is still vague
+
+### 12. `休闲益智 / 派对 / 合成 / 轻竞技`
+
+More weight on:
+- `规则秒懂`
+- `爽点直接`
+- `画面轻巧`
+- `不费脑也能秒接住`
+
+Common miss:
+- the image is busy or explanatory, but the one-second fun is not obvious
+
+Archetype discipline:
+- do not classify only by art style or worldbuilding wrapper
+- prefer the user's first expected experience over surface theme
+- for example, `二次元` is not one bucket; `角色养成` and `动作共斗` should be judged differently
+- when in doubt, weight by what the player thinks they will *do*, not just what world they are in
+
 ## Multi-Image Comparison Rule
 
 When the user is comparing two or more covers, do not just judge each image in isolation and then average the results.
@@ -360,6 +508,8 @@ Before phrasing the diagnosis, quickly decide:
 - what is happening on `画面秩序`
 - whether `题材/玩法匹配` is helping or hurting
 - whether `基础美术表现` is adding real pull or real drag
+- what the primary experience archetype is
+- whether that archetype changes the weighting of the five dimensions
 
 Do this internally.
 Do not turn it into a visible score table by default.
