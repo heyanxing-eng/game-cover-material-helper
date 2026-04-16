@@ -292,6 +292,53 @@ Practical rule:
 - but recognition cannot fully erase bad mobile readability, severe clutter, or total lack of focal point
 - in other words: `认得出来、想看这个角色` can be a real positive, but it is not a free pass
 
+Recognition strength bands:
+
+### `强认知`
+
+Typical signs:
+- top-tier IPs
+- highly recognizable hero casts
+- famous characters that users can identify quickly
+- mature products where face recognition is already part of the click reason
+
+Effect:
+- a real positive
+- character-forward materials may be allowed to explain systems less explicitly
+- can lift an otherwise borderline image
+
+### `中认知`
+
+Typical signs:
+- some audience recognition exists
+- target users may recognize the face or title, but broad users may not
+- the image benefits from recognition, but cannot rely on it alone
+
+Effect:
+- small or moderate positive
+- can soften a penalty, but should not flip the judgment by itself
+
+### `弱认知`
+
+Typical signs:
+- new title
+- new cast
+- no reliable reason to assume the character itself is already the click hook
+
+Effect:
+- little or no recognition bonus
+- the image should mostly win on its own visual strength
+
+Hard cap rules:
+- `强认知` cannot fully erase bad mobile readability
+- `强认知` cannot fully erase severe clutter or lack of focal point
+- `强认知` cannot fully erase major mismatch between the image promise and the actual game experience
+
+Recognition discipline:
+- do not invent recognition from art quality alone
+- use visible title/IP signal plus public context when available
+- if recognition is unclear, default conservatively rather than assuming `强认知`
+
 ## Multi-Image Comparison Rule
 
 When the user is comparing two or more covers, do not just judge each image in isolation and then average the results.

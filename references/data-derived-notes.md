@@ -67,6 +67,19 @@ Constraint:
 - recognition is a real positive
 - but it cannot erase severe clutter, weak mobile readability, or lack of focal point
 
+Recognition bands:
+- `强认知`: strong IP / strong cast recognition / mature product faces that already function as a click hook
+- `中认知`: some audience recognition, but not strong enough to carry the image alone
+- `弱认知`: little reason to assume the face or title itself will carry the click
+
+Weighting rule:
+- `强认知` can meaningfully help character-forward materials
+- `中认知` is a softer bonus
+- `弱认知` should not materially affect the verdict
+
+Cap rule:
+- even `强认知` cannot fully erase bad mobile readability, severe clutter, or major product-expression mismatch
+
 ## Multi-Image Comparison Notes
 
 When comparing multiple candidate covers:
