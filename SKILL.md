@@ -124,6 +124,35 @@ When two images are close, use this tie-break:
 - then choose the one that explains the click reason faster
 - only then let pure aesthetic advantage decide
 
+## Multi-Image Comparison Rule
+
+When the user is comparing two or more covers, do not just judge each image in isolation and then average the results.
+Run an explicit relative comparison.
+
+Internal comparison steps:
+- normalize the scenario first: assume the images are competing in the same mobile browse surface, at the same approximate display size, in the same quick-scroll context
+- decide which image is easier to catch in one glance before writing out each image's pros and cons
+- compare `硬优势` before `软优势`
+
+Treat these as harder comparison advantages:
+- clearer focal point
+- stronger mobile readability after shrink
+- larger and cleaner meaningful subject
+- lower reading cost
+- less local congestion
+
+Treat these as softer comparison advantages:
+- richer setting detail
+- more complete atmosphere
+- more explicit thematic flavor
+- more lore or worldbuilding information
+
+Comparison discipline:
+- do not automatically treat `信息更具体` as `更能打`
+- an image can explain the theme more specifically and still lose because it becomes more fragmented, busier, or more tiring on a phone
+- if both images are soft / cozy / cute / healing-facing, give extra weight to `浏览舒适度`, `主体明确`, and `谁更容易被接住`
+- when necessary, say `A 比 B 稍好，但两张都还没有到很能打`
+
 ## Embedded Patterns
 
 Use these as the main diagnosis bank.
@@ -335,6 +364,11 @@ Before phrasing the diagnosis, quickly decide:
 Do this internally.
 Do not turn it into a visible score table by default.
 
+If the user provided multiple images:
+- decide the relative winner first
+- then explain which dimensions created that gap
+- be careful not to let a more information-dense or more theme-specific image win automatically if the competing image is much easier to catch on mobile
+
 ### Step 1: Find the main failure mode
 
 Pick the single strongest driver first:
@@ -482,6 +516,7 @@ Do not include:
 
 Publisher-facing output should read like a direct material review, not like an analyst work log.
 Do not expose the internal 5-dimension frame or pseudo-scores unless the user explicitly asks for a scoring breakdown.
+If the user asks for multi-image comparison, lead with the ranking or relative winner before drilling into each image.
 
 ## Runtime Boundary
 

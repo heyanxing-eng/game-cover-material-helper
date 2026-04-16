@@ -22,6 +22,22 @@ Tie-break rule when two images are close:
 - then prefer the one that explains the click reason faster
 - only then let pure aesthetic advantage decide
 
+## Multi-Image Comparison Notes
+
+When comparing multiple candidate covers:
+- do not treat the task as independent single-image judgments
+- normalize the comparison to the same phone browse surface and same approximate display size
+- choose the relative winner first, then explain why
+
+Comparison weighting:
+- `clearer focal point / stronger mobile readability / lower reading cost` are harder advantages
+- `richer theme detail / fuller atmosphere / more specific setting flavor` are softer advantages
+- do not let `信息更具体` automatically beat `更顺眼、更轻松、更容易被接住`
+
+Special reminder for soft categories:
+- for cute / cozy / healing / life-sim / decoration-facing materials, `浏览舒适度` and `主体明确` deserve extra weight in side-by-side comparison
+- a cleaner and more immediately likable image can beat a more theme-specific but more fragmented one
+
 ## Verdict Ladder
 
 Top-line verdicts should stay linear:
