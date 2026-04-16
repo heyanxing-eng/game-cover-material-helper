@@ -53,6 +53,76 @@ That is an internal operating decision, not the publisher's lever.
 Still, remember one stable reality:
 - the faster an image can be understood, the safer it is inside the combined feed
 - mobile browsing punishes `主体太小` and `信息太散`
+- mobile browsing also punishes `关键信息颗粒太细` and `亮点全缩在小区域里`
+
+## Internal 5-Dimension Frame
+
+Use this as an internal judgment frame only.
+Do not expose it to publishers as a scorecard unless they explicitly ask for a scoring breakdown.
+
+Always scan the image through these five dimensions:
+
+### 1. `手机端可读性`
+
+Ask:
+- after shrinking to a normal phone browse size, is the meaningful content still readable
+- is the main subject large enough
+- are the key shapes, faces, actions, monsters, buildings, or props still clear
+- does the image stay sharp in a quick scroll instead of collapsing into small, vague detail
+
+### 2. `信息传达`
+
+Ask:
+- can the user tell what kind of game or fantasy this is in one glance
+- can the user understand what changed this time if this is an update, reservation, or limited-time event
+- is the image selling a real click reason, not just mood
+- if the product has a very strong flagship hook, is that hook actually visible
+
+### 3. `画面秩序`
+
+Ask:
+- is there one obvious focal point
+- are too many characters, props, effects, or decorative elements competing at once
+- is one side or one local zone too crowded
+- are linework, hair, weapons, cloth, logo, or effects colliding and reducing cleanliness
+- does the color hierarchy help reading, or does it flatten into mush
+
+### 4. `题材/玩法匹配`
+
+Ask:
+- is the image selling what the game really is
+- does it at least land the right generic genre feel
+- if the game has a highly recognizable product hook, did the image stop too early at generic signaling
+- is there a mismatch between what the image promises and what players will actually get
+
+### 5. `基础美术表现`
+
+Ask:
+- does the image simply look good enough to earn attention
+- are the brushwork, rendering, design taste, or character appeal strong
+- does it feel refined, comfortable, premium, elegant, or aesthetically attractive
+- or does it feel awkward, cheap, old, stiff, or unappealing
+
+### Internal Priority Rule
+
+These five dimensions are not equal-weight.
+
+Use this order internally:
+- `手机端可读性` and `信息传达` are the highest-priority dimensions
+- `画面秩序` is next because clutter often destroys the first two
+- `题材/玩法匹配` matters as a direction check and can become a major penalty when the image is promising the wrong thing
+- `基础美术表现` is a real plus or minus, but it cannot fully erase major failures in the first three dimensions
+
+Practical decision rule:
+- if `手机端可读性` or `信息传达` fails badly, the verdict usually cannot rise above `偏弱，不建议优先用`
+- if there is a strong `题材/玩法` mismatch, the verdict should be capped conservatively even when the art is polished
+- if the art is striking, elegant, or highly appealing, it can lift an otherwise borderline image
+- if the art is ugly, cheap, or unpleasant, it can drag down an otherwise merely average image
+
+When two images are close, use this tie-break:
+- first choose the one that survives mobile shrink better
+- then choose the one that explains the click reason faster
+- only then let pure aesthetic advantage decide
 
 ## Embedded Patterns
 
@@ -71,14 +141,16 @@ Translate this into direct advice, such as:
 - `这张图最大的问题不是不够精致，而是玩法信息没有被读出来`
 - `你现在卖的是氛围，不是点击理由`
 
-### 2. `主体太小` is a major mobile penalty
+### 2. `主体太小 / 信息颗粒太细` is a major mobile penalty
 
-When the key character, monster, vehicle, battlefield, or build target is too small, click tends to collapse fast.
+When the key character, monster, vehicle, battlefield, build target, or only meaningful detail is too small, click tends to collapse fast.
 
 Common symptoms:
 - the center of interest is buried in scenery
 - the user first notices background, not the playable fantasy
 - the art looks okay on a big monitor but loses force on a phone
+- the meaningful part exists, but only as tiny figures, tiny props, or tiny scene details
+- the image shrinks into `看不清 / 不够利落 / 不够好看`
 
 ### 3. `元素堆太满` often reads as noise, not richness
 
@@ -180,6 +252,26 @@ Use language like:
 - `不是只有信息问题，它本身也不够好看`
 - `画面会让人读懂类型，但不太会让人想点`
 
+### 6.6 `基础美术风格 / 笔触 / 审美完成度` 本身也是加分项
+
+Do not treat visual appeal only as a pass/fail gate.
+Some images are not the cleanest or the simplest, but they still gain real strength from:
+- strong illustration quality
+- appealing brushwork or rendering
+- comfortable, refined, elegant, or premium-looking visual taste
+- characters or scenes that simply look good enough to earn attention
+
+Important balance rule:
+- this is a real positive, not fluff
+- but it cannot fully erase severe readability problems
+- if the image is a bit busy but the art is genuinely striking, say both
+
+Use language like:
+- `这张图虽然不算最简洁，但基础美术表现本身是加分的`
+- `画面略有点挤，不过审美和笔触比较出彩`
+- `它不一定是最利落的点击图，但看起来舒服、精致、有质感`
+- `这张图的美术风格本身能帮它多拿一点第一眼好感`
+
 ### 7. Positive direction usually looks `简洁 + 有明确主体 + 有玩法指向`
 
 Better-performing visual directions repeatedly shared these traits:
@@ -231,6 +323,18 @@ Translate this into direct advice, such as:
 
 ## Diagnosis Workflow
 
+### Step 0: Run the internal 5-dimension scan first
+
+Before phrasing the diagnosis, quickly decide:
+- what is happening on `手机端可读性`
+- what is happening on `信息传达`
+- what is happening on `画面秩序`
+- whether `题材/玩法匹配` is helping or hurting
+- whether `基础美术表现` is adding real pull or real drag
+
+Do this internally.
+Do not turn it into a visible score table by default.
+
 ### Step 1: Find the main failure mode
 
 Pick the single strongest driver first:
@@ -239,6 +343,7 @@ Pick the single strongest driver first:
 - `主体太小`
 - `画面太乱`
 - `局部线条过挤`
+- `手机上一缩就看不清`
 - `更新/联动信息看不出来`
 - `只剩风格，没有点击理由`
 - `素材和玩法题材不匹配`
@@ -260,10 +365,12 @@ Use `产品特色很强，但没被打出来` carefully:
 Ask:
 - does it survive a quick phone scroll
 - can the eye land on one obvious focal point
+- after shrinking to a normal phone browse size, is the meaningful content still big enough to read
 - does the logo help recognition or just block the useful picture
 - is this merely on-theme, or does it actually create a reason to click
 - if the category is already soft / cozy / management-like, did the image add enough contrast, hook, or standout subject to overcome that softness
 - even if the subject is clear, is one side of the frame still too crowded or line-heavy
+- even if the image is not perfectly simple, does the art style itself create extra pull
 
 ### Step 3: Give fix directions, not vague art-school comments
 
@@ -333,7 +440,7 @@ Use this order:
 
 ```markdown
 判断
-- 先给一句结论：能打 / 方向对但偏弱 / 中性 / 风险高 / 会浪费位置
+- 先给一句线性结论：很能打 / 能打 / 可用，建议优化 / 偏弱，不建议优先用 / 风险高，不建议用
 
 主因
 - 只说最关键的 1-2 个视觉问题
@@ -348,10 +455,24 @@ Use this order:
 ```
 
 Tone calibration:
-- if the judgment is `能打` or solid `中上`, do not frame the next section like mandatory correction
+- if the judgment is `很能打` or `能打`, do not frame the next section like mandatory correction
 - use softer wording such as `如果还想再往上提，可以考虑...` or `如果想继续放大优势，可以往这些方向发力`
 - preserve the positive read before offering optimization ideas
 - stronger, more direct wording is for clearly weak materials, not already-good ones
+
+Rating semantics:
+- `很能打`: first-glance pull is strong, mobile readability is strong, and there is no obvious structural weakness
+- `能打`: overall strong with clear positives. If the user wants to push it toward `很能打`, there is still room to optimize
+- `可用，建议优化`: the direction is not wrong and the image can work, but it is still some distance away from `能打`
+- `偏弱，不建议优先用`: not completely wrong, but the image lacks enough pull, clarity, or distinctiveness to be a preferred option
+- `风险高，不建议用`: the image has a strong chance of underperforming because of clarity, clutter, mismatch, or weak appeal
+
+Do not use non-linear verdict labels such as:
+- `方向对但偏弱`
+- `中性偏弱`
+- `中上`
+
+Those belong in the explanation layer, not in the top-line verdict.
 
 Do not include:
 - your lookup process
@@ -360,6 +481,7 @@ Do not include:
 - chain-of-thought or internal workflow explanation
 
 Publisher-facing output should read like a direct material review, not like an analyst work log.
+Do not expose the internal 5-dimension frame or pseudo-scores unless the user explicitly asks for a scoring breakdown.
 
 ## Runtime Boundary
 
