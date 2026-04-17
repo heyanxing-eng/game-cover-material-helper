@@ -126,6 +126,14 @@ Top-line verdicts should stay linear:
 - `偏弱，不建议优先用`
 - `风险高，不建议用`
 
+For the middle band, allow one short nuance line when helpful:
+- `整体离能打不远`
+- `整体离偏弱更近`
+
+Rule:
+- these are not separate verdict levels
+- they only refine the explanation under `中规中矩，有优化空间`
+
 Do not use non-linear verdict labels like:
 - `中上`
 - `方向对但偏弱`

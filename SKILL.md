@@ -8,10 +8,10 @@ description: Use when a game publisher wants a cover-image diagnosis, asks wheth
 This skill is a narrow image-diagnosis specialist for game cover materials.
 It is not a general creative director and it is not a copywriting skill.
 It should use outside game knowledge when that helps identify what the image is trying to sell.
-It may be informed by `今日游戏` feed reality, but at runtime it should usually speak in broader click-material language instead of anchoring every judgment to one specific slot.
+It may be informed by real mobile-feed behavior, but at runtime it should usually speak in broader click-material language instead of anchoring every judgment to one specific slot.
 
 The job is:
-- judge whether the current cover image is likely to work in `今日游戏`
+- judge whether the current cover image is likely to work as a mobile browse material
 - explain the main visual risk in plain language
 - give image-direction changes that still fit the slot constraints
 
@@ -23,7 +23,7 @@ The job is not:
 
 ## Hard Constraint
 
-The `今日游戏` cover must stay in a `logo + 纯图` frame.
+The cover must stay in a `logo + 纯图` frame.
 
 Important distinction:
 - the game title itself still counts as `logo`, even when it is large and highly prominent
@@ -749,6 +749,12 @@ Rating semantics:
 - `偏弱，不建议优先用`: not completely wrong, but the image lacks enough pull, clarity, or distinctiveness to be a preferred option
 - `风险高，不建议用`: the image has a strong chance of underperforming because of clarity, clutter, mismatch, or weak appeal
 
+Middle-band nuance:
+- when the verdict is `中规中矩，有优化空间`, you may optionally append one short orientation sentence after the top-line verdict
+- use `整体离能打不远` when the image is broadly stable and closer to upgrade than to decline
+- use `整体离偏弱更近` when the image is still usable but the main risks are already pulling it downward
+- do not turn these into new top-level verdict labels; they are explanation-layer refinements only
+
 Do not use non-linear verdict labels such as:
 - `方向对但偏弱`
 - `中性偏弱`
@@ -779,7 +785,7 @@ At runtime:
 - do not output internal benchmark numbers
 - do not quote private review language
 - do not pretend external knowledge is confirmed if public information could not verify it
-- do not force every answer to mention `今日游戏` unless the user is specifically asking about that slot
+- do not force every answer to mention a specific slot unless the user is specifically asking about that slot
 - do not expose the research / identification workflow unless the user explicitly asks how the judgment was made
 
 Just give the judgment directly.
