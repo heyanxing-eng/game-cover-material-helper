@@ -42,6 +42,8 @@ Recommended archetypes:
 
 Archetype reminders:
 - soft / cute / healing-facing materials deserve extra weight on `浏览舒适度`, `主体明确`, and `第一眼讨喜`
+- for soft / home / decoration / life-sim-facing materials, `元素偏多偏散` should be treated more conservatively because mobile users lose patience fast when they need extra scan time
+- if a soft-facing image is pretty but the main point is not absolute, it should fall toward `中规中矩，有优化空间` more easily than a denser action or spectacle image
 - character-driven anime materials deserve extra weight on `角色魅力`, `脸`, `气质`, and who actually wins first glance
 - action-facing materials deserve extra weight on `动作张力`, `敌我冲突`, and `正在发生什么`
 - narrative-facing materials deserve extra weight on `故事感`, `关系张力`, `悬念`, and `线索钩子`
@@ -53,6 +55,10 @@ Classification discipline:
 - prefer what the user expects to *do* in the game over what world the image appears to inhabit
 - `二次元` and `国风` are not enough by themselves; split by actual experience type
 - in hybrid products, prioritize what the current asset is trying to sell now
+
+Mobile clutter reminder:
+- if the user needs an extra half-second to understand what to look at, count that as a meaningful penalty in mobile feeds
+- `更丰富` is not automatically `更强`; for soft-facing materials, richer detail often loses to a cleaner and faster first glance
 
 ## Recognition Modifier
 

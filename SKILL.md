@@ -117,6 +117,7 @@ Use this order internally:
 
 Practical decision rule:
 - if `手机端可读性` or `信息传达` fails badly, the verdict usually cannot rise above `偏弱，不建议优先用`
+- if the image is `元素偏多偏散`, and the user must spend extra time figuring out what to look at on a phone, treat that as a meaningful mobile penalty rather than a minor weakness
 - if there is a strong `题材/玩法` mismatch, the verdict should be capped conservatively even when the art is polished
 - if the art is striking, elegant, or highly appealing, it can lift an otherwise borderline image
 - if the art is ugly, cheap, or unpleasant, it can drag down an otherwise merely average image
@@ -152,6 +153,8 @@ More weight on:
 
 Common miss:
 - the image becomes more theme-specific but also more fragmented, tiring, or less likable on a phone
+- the art is cute and polished, but the frame is still too busy or too evenly weighted, so mobile users need extra time to figure out the main point
+- for this archetype, `偏多偏散` should pull the verdict down more aggressively than in harder-edged action or spectacle categories
 
 ### 2. `模拟经营 / 建造 / 种田 / 开店 / 生活模拟`
 
@@ -380,6 +383,7 @@ Treat these as harder comparison advantages:
 - larger and cleaner meaningful subject
 - lower reading cost
 - less local congestion
+- less scan time before the user understands what matters
 
 Treat these as softer comparison advantages:
 - richer setting detail
@@ -391,6 +395,7 @@ Comparison discipline:
 - do not automatically treat `信息更具体` as `更能打`
 - an image can explain the theme more specifically and still lose because it becomes more fragmented, busier, or more tiring on a phone
 - if both images are soft / cozy / cute / healing-facing, give extra weight to `浏览舒适度`, `主体明确`, and `谁更容易被接住`
+- if both images are soft / home / decoration / life-sim facing, prefer the one that demands less scanning and feels clearer after shrink, even when the denser image looks richer at full size
 - when necessary, say `A 比 B 稍好，但两张都还没有到很能打`
 
 ## Embedded Patterns
